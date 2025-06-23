@@ -1,28 +1,34 @@
 # WindowsGSM.HumanitZ
 
-🧩 WindowsGSM plugin that provides HumanitZ Dedicated server install option
+🧩 A WindowsGSM plugin that adds support for installing the **HumanitZ Dedicated Server**.
 
-## WindowsGSM Installation
-1. Download WindowsGSM from [windowsgsm.com](https://windowsgsm.com/)
-2. Create a folder at the location where you want all servers to be installed.
-3. Drag `WindowsGSM.exe` into the previously created folder and execute it.
+## 🛠️ WindowsGSM Installation
 
-## Plugin Installation
-- Download the [latest release](#)
-- Extract the files and move the `HumanitZ.cs` folder to the plugins folder.
-  - **OR**
-- Press on the Puzzle Icon in the left bottom side of WindowsGSM, navigate to the plugin ZIP file, and install it.
-- Click the [RELOAD PLUGINS] button or restart WindowsGSM.
-- Navigate to "Servers" and click "Install Game Server," then find "HumanitZ Dedicated Server [HumanitZ.cs]".
+1. Download WindowsGSM from [https://windowsgsm.com/](https://windowsgsm.com/)
+2. Create a folder where you'd like your game servers to be installed.
+3. Drag `WindowsGSM.exe` into the folder and run it.
 
-## Official Documentation
+## 🔌 Plugin Installation
+
+- Download the latest release from: [Latest Release](https://github.com/YourUsername/WindowsGSM.HumanitZ/releases/latest)
+- Extract the ZIP file and move the `HumanitZ.cs` folder to the `plugins` directory  
+  **OR**  
+- In WindowsGSM, click the **Puzzle icon** (bottom-left), browse to the plugin ZIP file, and install it.
+- Click the **[RELOAD PLUGINS]** button or restart WindowsGSM.
+- Go to the **Servers** tab → click **Install Game Server** → select **HumanitZ Dedicated Server [HumanitZ.cs]**
+
+## 📚 Official Documentation
+
 📝 To be announced!
 
-## Unofficial Documentation
-🗃️ [Join the HumanitZ Discord Server, Private Server Hosting Discussion](https://discord.gg/GKAyNdJ2Fh)
+## 📦 Unofficial Documentation & Community Support
 
-## The Game
-🕹️ [HumanitZ on Steam](https://store.steampowered.com/app/1766060/HumanitZ/)
+🗃️ Join the HumanitZ Discord – Private Server Hosting Discussion: https://discord.gg/GKAyNdJ2Fh
 
-## Dedicated Server Info
-🖥️ [HumanitZ Dedicated Server on SteamDB](https://steamdb.info/app/2728330/)
+## 🎮 The Game
+
+🕹️ HumanitZ on Steam: https://store.steampowered.com/app/1766060/HumanitZ/
+
+## 🖥️ Dedicated Server Info
+
+📡 HumanitZ Dedicated Server on SteamDB: https://steamdb.info/app/2728330/
