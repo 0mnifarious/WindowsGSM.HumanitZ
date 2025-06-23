@@ -10,7 +10,7 @@
 
 ## 🔌 Plugin Installation
 
-- Download the latest release from: [Latest Release](https://github.com/YourUsername/WindowsGSM.HumanitZ/releases/latest)
+- Download the latest release from: [Latest Release]([https://github.com/YourUsername/WindowsGSM.HumanitZ/releases/latest](https://github.com/0mnifarious/WindowsGSM.HumanitZ/archive/refs/heads/main.zip))
 - Extract the ZIP file and move the `HumanitZ.cs` folder to the `plugins` directory  
   **OR**  
 - In WindowsGSM, click the **Puzzle icon** (bottom-left), browse to the plugin ZIP file, and install it.
