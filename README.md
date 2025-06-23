@@ -13,7 +13,7 @@
   - **OR**
 - Press on the Puzzle Icon in the left bottom side of WindowsGSM, navigate to the plugin ZIP file, and install it.
 - Click the [RELOAD PLUGINS] button or restart WindowsGSM.
-- Navigate to "Servers" and click "Install Game Server," then find "Enshrouded Dedicated Server [Enshrouded.cs]".
+- Navigate to "Servers" and click "Install Game Server," then find "HumanitZ Dedicated Server [HumanitZ.cs]".
 
 ## Official Documentation
 📝 To be announced!
