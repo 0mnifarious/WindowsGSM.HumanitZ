@@ -1,6 +1,6 @@
 # WindowsGSM.HumanitZ
 
-🧩 A WindowsGSM plugin that adds support for installing the **HumanitZ Dedicated Server**. Congratulations to the team on the 1.0 RELEASE!
+🧩 A WindowsGSM plugin that adds support for installing the **HumanitZ Dedicated Server**. Congratulations to Yodubzz Studios team on the 1.0 RELEASE!
 
 ## 🛠️ WindowsGSM Installation
 
